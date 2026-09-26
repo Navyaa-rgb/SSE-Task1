@@ -1,3 +1,8 @@
+/*
+ * Linear Search
+ * Searches for a given element in an array
+ * and returns its index and position.
+ */
 #include <stdio.h>
 
 int main(){
